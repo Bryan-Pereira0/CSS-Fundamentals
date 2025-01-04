@@ -1,12 +1,12 @@
 #header {
-    background-color: #8B4513; /* Brown */
+    background-color: #8B4513; 
     color: #fff;
     padding: 20px;
     text-align: center;
 }
 
 #footer {
-    background-color: #8B4513; /* Brown */
+    background-color: #8B4513; 
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -30,7 +30,7 @@
 }
 
 #recipe_link:hover {
-    color: #FF6347; /* Tomato */
+    color: #FF6347; 
     text-decoration: underline;
 }
 
